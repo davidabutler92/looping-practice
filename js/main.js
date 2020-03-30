@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var flavors = ["mint chip", "chocolate", "vanilla", "pistachio", "cherry", "mudslide", "covid 19 swirl"];
+  var flavors = ["mint chip", "chocolate", "vanilla", "pistachio", "cherry", "mudslide", "covid 19 swirl  "];
 
   var list=document.createElement('ul');
   //create a list item for each ice cream flavor
